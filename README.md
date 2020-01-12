@@ -1,2 +1,2 @@
-# coursera
+# Coursera
 Storing information from Coursera
